@@ -5,7 +5,8 @@
 - 📫 How to reach me : use my email fikerbdu@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: this account is create because i am blocked from my original account thanks to 2FA
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 
 <!---
