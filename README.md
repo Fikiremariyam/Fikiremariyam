@@ -1,6 +1,5 @@
 <h2>ኖር!🙏🏻, I'm fikiremariyam Babu! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software engineering student  at <a href="https://bdu.edu.et/">Bahirdar university </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
@@ -67,7 +66,7 @@ say hi for further inquery!
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Fikiremariyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fikiremariyam&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <!---
 Fikiremariyam/Fikiremariyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
