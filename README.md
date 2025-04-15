@@ -5,7 +5,7 @@
 - 📫 How to reach me : use my email fikerbdu@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: this account is create because i am blocked from my original account thanks to 2FA
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fikiremariyam&show_icons=true&theme=transparent)
 <!---
 Fikiremariyam/Fikiremariyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
