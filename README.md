@@ -26,6 +26,9 @@
 <h3 align="left">💼 Technologies I work with on the daily:</h3>
  <a href="https://react.dev/"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="jupyter" width="40" height="40"/> </a>
 
+<a  href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+</a>
 
 <!--Python--> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
@@ -44,9 +47,7 @@
 <!--Git--> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <!--Bash--> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <!--Linux--> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a  href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-</a>
+
 
 <h3 align="left">💼 Technologies I am very familiar with:</h3>
 <!--jupyter--> <a href="https://jupyter.org/"> <img src="https://www.nicepng.com/png/detail/70-701999_jupyter-logo.png" alt="jupyter" width="40" height="40"/> </a>
